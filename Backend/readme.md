@@ -1,43 +1,43 @@
 # INSTALASI BACKEND EXPRESS SIGN
 
-### CLONE REPOSITORY
+### 1. CLONE REPOSITORY
 Setelah folder backend berada di local direktory anda, silahkan cd backend.
 
-### SET UP ENVIRONTMENT VARIABLES
-Buat file .env, lalu buat variables yang akan dibutuhkan seperti ini :
-#express server config
-PORT=8080
-HOST=localhost
-HOST_URL=http://localhost:8080
-#firebase database config
-API_KEY=YOUR_API_KEY
-AUTH_DOMAIN=YOUR_AUTH_DOMAIN
-DATABASE_URL=YOUR_DB_URL
-PROJECT_ID=YOUR_PROJECT_ID
-STORAGE_BUCKET=YOUR_STORAGE_BUCKET_URL
-MESSAGING_SENDER_ID=YOUR_MSG_SENDER_ID
-APP_ID=YOUR_APP_ID
+### 2. SET UP ENVIRONTMENT VARIABLES
+<p>Buat file .env, lalu buat variables yang akan dibutuhkan seperti ini :</p>
+<p>#express server config</p>
+<p>PORT=8080</p>
+<p>HOST=localhost</p>
+<p>HOST_URL=http://localhost:8080</p>
+<p>#firebase database config</p>
+<p>API_KEY=YOUR_API_KEY</p>
+<p>AUTH_DOMAIN=YOUR_AUTH_DOMAIN</p>
+<p>DATABASE_URL=YOUR_DB_URL</p>
+<p>PROJECT_ID=YOUR_PROJECT_ID</p>
+<p>STORAGE_BUCKET=YOUR_STORAGE_BUCKET_URL</p>
+<p>MESSAGING_SENDER_ID=YOUR_MSG_SENDER_ID</p>
+<p>APP_ID=YOUR_APP_ID</p>
 
-### SET UP FIREBASE
+### 3. SET UP FIREBASE
 Buat project firebase lalu unduh serviceAccountKey.json dan letakkan di direktori backend
 
-### SPLIT TERMINAL
+### 4. SPLIT TERMINAL
 Buat 2 terminal, lalu salah satu terminal tersebut jalankan perintah cd ML
 
-### masukkan model ml kalian di direktori ML
+### 5. MASUKKAN MODEL ML KE DIREKTORI ML
 Setelah model ml di masukkan, bukan app.py lalu ubah nama path model sesuai dengan keinginan kalian.
 
-### jalankan flask server
+### 6. JALANKAN FLASK SERVER
 jalankan perintah python app.py di terminal ML
 
-### NPM INSTALL
+### 7. NPM INSTALL
 Di terminal lain, jalankan NPM install
 
-### KONFIGURASI URL ENDPOINT FLASK KE NODE.JS
+### 8. KONFIGURASI URL ENDPOINT FLASK KE NODE.JS
 Pada file signLanguange.js dan expression.js, di bagian call flask server ganti url nya (jika masih localhost, ganti dengan localhost 3000/nama endpoint di app flask)
 
-### JALANKAN API SERVICES
+### 9. JALANKAN API SERVICES
 Jalankan perintah npm run api-services
 
-## Dokumentasi Endpoint
+## 10. Dokumentasi Endpoint
 Untuk melihat dokumentasi dan cara tes api nya, silahkan cek [disini](https://documenter.getpostman.com/view/33504216/2sA3QtfBwL)
