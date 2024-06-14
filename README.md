@@ -11,22 +11,14 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
 </div>
 
-## Handsign Folder
-<p>Model untuk memprediksi huruf A-Z dalam bahasa isyarat</p>
-
-### Teknologi yang kami gunakan : 
-<div >
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-</div>
-
-## Face expression Folder
+## ML-Model Folder
+<p>Model untuk memprediksi huruf A-Z dalam bahasa isyarat, dan</p>
 <p>Model untuk memprediksi ekspresi wajah seperti happy, fear, sad, surprised, angry, and neutral.</p>
 
 ### Teknologi yang kami gunakan : 
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
 </div>
-
 
 ## Frontend Folder
 <p>Aplikasi android dengan user interface untuk memudahkan pengguna menggunakan fitur deteksi.</p>
