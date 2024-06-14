@@ -1,4 +1,5 @@
 # Welcome to Repository C241-PS128 Capstone Team
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 
 ## Backend Folder
 <p>Berisi API services untuk aplikasi Express Sign yang menyediakan endpoint untuk mendeteksi ekspresi, bahasa isyarat, riwayat deteksi, dan menghapus riwayat.</p>
