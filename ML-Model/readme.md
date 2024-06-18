@@ -11,4 +11,8 @@
 <code><img height="50" src="https://github.com/Raihanf27/foto/blob/main/matplotlib.png" alt="Matplotlib" title="Matplotlib"/></code>
 </div>
 
-<p>Untuk menggunakan model machine learning face expression letakkan model.rar dalam satu folder yang sama lalu extract Model.part01.rar untuk mendapatkan face expression model</p>
+## Cara memakai folder
+<p>1. Untuk menggunakan model machine learning handsign bisa didownload handsign_model.h5 atau handsign_model.tflite</p>
+
+
+<p>2. Untuk menggunakan model machine learning face expression letakkan model.rar dalam satu folder yang sama lalu extract Model.part01.rar untuk mendapatkan face expression model</p>
