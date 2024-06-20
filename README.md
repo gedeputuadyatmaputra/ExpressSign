@@ -17,6 +17,13 @@
 | A609D4KY3795  | MD            | Arjulian Fatah              | Active  |
 
  
+## All Repostory Github Express Sign
+
+|    Learning Path    |                            Link                             | 
+|---------------------|-------------------------------------------------------------|
+| Mobile Development  | https://github.com/gedeputuadyatmaputra/ExpressSignApp.git  | 
+| Machine Learning    | https://github.com/gedeputuadyatmaputra/ExpressSign.git     |
+|Cloud Computing      | https://github.com/Akaza22/Express-Sign-FE                  |
 
 ## Backend Folder
 <p>Berisi API services untuk aplikasi Express Sign yang menyediakan endpoint untuk mendeteksi ekspresi, bahasa isyarat, riwayat deteksi, dan menghapus riwayat.</p>
