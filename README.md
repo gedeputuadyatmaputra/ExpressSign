@@ -23,7 +23,7 @@
 |---------------------|-------------------------------------------------------------|
 | Mobile Development  | https://github.com/gedeputuadyatmaputra/ExpressSignApp.git  | 
 | Machine Learning    | https://github.com/gedeputuadyatmaputra/ExpressSign.git     |
-|Cloud Computing      | https://github.com/Akaza22/Express-Sign-FE                  |
+|Cloud Computing      | https://github.com/Akaza22/ExpressSign-API                  |
 
 ## Backend Folder
 <p>Berisi API services untuk aplikasi Express Sign yang menyediakan endpoint untuk mendeteksi ekspresi, bahasa isyarat, riwayat deteksi, dan menghapus riwayat.</p>
